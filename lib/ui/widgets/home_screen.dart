@@ -47,6 +47,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
         ],
       ),
     );
+
   }
 
   Widget _getScreen(int index) {
@@ -64,3 +65,4 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
     }
   }
 }
+
